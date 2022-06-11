@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [vetaCloud](https://www.vetacloud.com)
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **JavaScript and GoLang**
 
 - 👨‍💻 All of my projects are available at [https://devadedeji.github.io](https://devadedeji.github.io)
 
-- 💬 Ask me about **JavaScript,Vue, Go**
+- 💬 Ask me about **JavaScript,**
 
 - 📫 How to reach me **adedejitewogbade2@gmail.com**
 
