@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adedejitewogbade2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EhuMAsa5bJfVCfn8x8MkuevoNi4ocJk7/view?usp=sharing](https://drive.google.com/file/d/1EhuMAsa5bJfVCfn8x8MkuevoNi4ocJk7/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1E6AzsTBHA-U8WIp69h_bzOdOxk_3NWD1/view?usp=sharing](https://drive.google.com/file/d/1E6AzsTBHA-U8WIp69h_bzOdOxk_3NWD1/view?usp=sharing)
 
 - ⚡ Fun fact **I love watching Kdramas**
 
