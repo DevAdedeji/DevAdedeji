@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [vetaCloud](https://www.vetacloud.com)
 
-- 🌱 I’m currently learning more on **JavaScript**
+- 🌱 I’m currently learning more on **JavaScript and its Ecosystem**
 
 - 👨‍💻 All of my projects are available at [https://devadedeji.github.io](https://devadedeji.github.io)
 
