@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devadedeji" alt="devadedeji" /></a> </p>
 
-- 🔭 I’m currently working on [vetaCloud](https://www.vetacloud.com)
+- 🔭 I’m currently working on [FarmMonitor](https://www.farmmonitor.africa)
 
 - 🌱 I’m currently learning more on **JavaScript and its Ecosystem**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adedejitewogbade2@gmail.com**
 
-- 📄 Want to know more about my experiences [Check out my resume](https://docs.google.com/document/d/1gMYQOzsRqC3k6HLfGiAHdaZqwbPlmLH-Hasb4hvWDtg/edit?usp=share_link)
+- 📄 Want to know more about my experiences [Check out my resume](https://docs.google.com/document/d/1zU6SlzuQE3zEeaJnKvmMl-0ql53sSk4UDAqEp09AeV8/edit?usp=drive_link)
 
 - ⚡ Fun fact **I love watching Kdramas**
 
