@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FarmMonitor](https://www.farmmonitor.africa)
 
-- 🌱 I’m currently learning more on **JavaScript and its Ecosystem**
+- 🌱 I’m currently learning more on **JavaScript, Solidity and its Ecosystem**
 
 - 👨‍💻 All of my projects are available at [https://devadedeji.github.io](https://devadedeji.github.io)
 
