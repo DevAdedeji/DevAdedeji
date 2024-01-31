@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devadedeji" alt="devadedeji" /></a> </p>
 
-- 🔭 I’m currently working on [FarmMonitor](https://www.farmmonitor.africa)
+- 🔭 I’m currently working on [Stranerd](https://www.stranerd.com)
 
 - 🌱 I’m currently learning more on **JavaScript, Solidity and its Ecosystem**
 
