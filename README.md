@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devadedeji" alt="devadedeji" /></a> </p>
 
-- 🔭 I’m currently working on [Stranerd](https://stranerd.com/)
+- 🔭 I’m currently working on myself
 
 - 🌱 I’m currently learning more on **JavaScript, Web3 and its Ecosystem**
 
