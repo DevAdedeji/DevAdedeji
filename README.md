@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on myself
 
-- 🌱 I’m currently learning more on **JavaScript, Web3 and its Ecosystem**
+- 🌱 I’m currently learning more on **JavaScript, Typescript, Rust, Web3 and its Ecosystem**
 
 - 👨‍💻 All of my projects are available at [https://devadedeji.github.io](https://devadedeji.github.io)
 
